@@ -1,7 +1,9 @@
 # trader-sentiment-analysis
 Analysis of trader performance vs market sentiment with insights and strategies
-# Trader Performance vs Market Sentiment Analysis
 
+##Datasets can be accessed from the provided Google Drive links in the assignment##.
+
+# Trader Performance vs Market Sentiment Analysis
 ## Objective
 The objective of this project is to analyze how market sentiment (Fear/Greed) impacts trader behavior and performance on Hyperliquid, and derive actionable trading insights.
 
