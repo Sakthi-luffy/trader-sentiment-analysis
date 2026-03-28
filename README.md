@@ -76,5 +76,5 @@ The objective of this project is to analyze how market sentiment (Fear/Greed) im
 
 Market sentiment significantly influences trader behavior and performance. Traders who adapt their strategies based on sentiment—by managing risk, timing trades, and focusing on quality—can achieve better and more consistent results.
 
-## 👤 Author
+## Author
 Sakthi Saravana M
